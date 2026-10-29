@@ -1,30 +1,30 @@
 <!-- =========================================================================
      JEEVAN KUMAR - PROFESSIONAL GITHUB PROFILE
-     Warm, Elegant, and Executive Developer Presence
+     Clean, Elegant, and Executive Developer Presence
      ========================================================================= -->
 
 <div align="center">
 
-  <!-- TOP ANIMATED WARM BANNER -->
+  <!-- TOP HEADER BANNER (Smooth Fade-In Wave) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=220&section=header&text=Welcome!%20I'm%20Jeevan%20Kumar%20%E2%9C%A8&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Cloud&descSize=17&descColor=fde047&descAlignY=62" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24,15,30&height=200&section=header&text=Jeevan%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Generative%20AI%20%7C%20Cloud&descSize=16&descColor=fde047&descAlignY=62&animation=fadeIn" width="100%" alt="Header Banner" />
   </a>
 
-  <!-- DYNAMIC TYPING SVG -->
+  <!-- SMOOTH TYPING SVG ANIMATION (Balanced 4s pacing, 1.8s hold) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Software+Developer+%26+Full-Stack+Engineer;Gen+AI+%26+Cloud+Architecture+Enthusiast;Crafting+Scalable%2C+Reliable+Web+Systems;Turning+Ideas+Into+Impactful+Software" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=F59E0B&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Software+Developer+%26+Full-Stack+Engineer;Generative+AI+%26+Cloud+Solutions+Builder;Engineering+Scalable%2C+Clean+Web+Applications;Turning+Complex+Problems+Into+Reliable+Code" alt="Typing Animation" />
   </a>
 
   <br/>
 
-  <!-- PROFESSIONAL BADGES & STATUS -->
+  <!-- PROFESSIONAL STATUS BAR -->
   <p align="center">
     <a href="https://github.com/Jeevankumar-coder-tech">
       <img src="https://komarev.com/ghpvc/?username=Jeevankumar-coder-tech&label=PROFILE%20VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-10B981?style=flat-square" alt="Status Badge" />
     <a href="mailto:jeevanofficial2004@gmail.com">
-      <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EMAIL%20ME-F59E0B?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/CONTACT-EMAIL%20ME-F59E0B?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
     <a href="https://github.com/Jeevankumar-coder-tech?tab=repositories">
       <img src="https://img.shields.io/badge/LOCATION-INDIA%20%2F%20REMOTE-6366F1?style=flat-square" alt="Location Badge" />
@@ -35,31 +35,31 @@
 
 ---
 
-### 🌿 About Me
+## About Me
 
-> *"I believe quality software engineering stems from clean abstractions, solid architectural foundations, and an obsession with seamless user experiences."*
+> *"Quality software engineering stems from clean abstractions, solid architectural foundations, and an obsession with seamless user experiences."*
 
-Hello & welcome to my GitHub profile! 👋
+Welcome to my GitHub profile.
 
-I'm **Jeevan Kumar**, a passionate **Software Developer** with a solid foundation in Information Technology and modern web engineering. I specialize in designing and shipping scalable full-stack applications, integrating Generative AI into practical developer workflows, and deploying cloud-ready backend services on AWS.
+I am **Jeevan Kumar**, a Software Developer with a solid foundation in Information Technology and modern web engineering. I specialize in designing and shipping scalable full-stack applications, integrating Generative AI into practical developer workflows, and deploying cloud-ready backend services on AWS.
 
-Whether I'm building interactive interfaces in **React.js**, crafting clean **Python** APIs, optimizing **MySQL** database queries, or leveraging **Generative AI** for next-generation user experiences, I focus on delivering code that is secure, maintainable, and built to scale.
+Whether building interactive interfaces in **React.js**, crafting clean **Python** APIs, optimizing **MySQL** database queries, or leveraging **Generative AI** for next-generation software solutions, I focus on delivering code that is secure, maintainable, and built to scale.
 
-#### 🔍 Quick Snapshot
+### Profile Highlights
 
-- 🔭 **Current Focus**: Architecting full-stack web platforms with Generative AI integrations and scalable cloud backends on **AWS**.
-- 💡 **Core Expertise**: Python, JavaScript, React.js, AWS Cloud, MySQL, and modern responsive UI engineering.
-- 🎓 **Education**: Bachelor of Technical Education in Information Technology at *Veltech Dr. Rangarajan & Sagunthala R&D Institute of Science and Technology*.
-- 🌱 **Continuous Growth**: Deepening my expertise in distributed architectures, LLM fine-tuning/orchestration, and DevOps best practices.
-- 🤝 **Collaboration**: Open to full-time software engineering roles, impactful AI/Web projects, and open-source collaborations.
+- **Current Focus:** Architecting full-stack web platforms with Generative AI integrations and scalable cloud backends on AWS.
+- **Core Competencies:** Python, JavaScript, React.js, AWS Cloud, MySQL, and modern responsive UI engineering.
+- **Education:** Bachelor of Technical Education in Information Technology at Veltech Dr. Rangarajan & Sagunthala R&D Institute of Science and Technology.
+- **Continuous Learning:** Deepening expertise in distributed system design, LLM fine-tuning and orchestration, and modern cloud DevOps.
+- **Collaboration:** Open to full-time software engineering roles, impactful AI and web projects, and open-source contributions.
 
 ---
 
-### 🛠️ Technical Competencies
+## Technical Skills
 
 <div align="center">
 
-#### 💻 Core Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -68,7 +68,7 @@ Whether I'm building interactive interfaces in **React.js**, crafting clean **Py
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-#### ⚛️ Frontend & User Interface
+### Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -76,7 +76,7 @@ Whether I'm building interactive interfaces in **React.js**, crafting clean **Py
   <img src="https://img.shields.io/badge/Responsive_Design-0284C7?style=for-the-badge&logo=web&logoColor=white" alt="Responsive Design" />
 </p>
 
-#### 🧠 Backend, Database & Cloud Infrastructure
+### Backend & Cloud Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -84,7 +84,7 @@ Whether I'm building interactive interfaces in **React.js**, crafting clean **Py
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-#### 🤖 AI Integration & Development Workflow
+### AI & Developer Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -96,31 +96,31 @@ Whether I'm building interactive interfaces in **React.js**, crafting clean **Py
 
 ---
 
-### 🌟 Featured Projects
+## Featured Projects
 
-Here are a few selected projects that demonstrate my approach to software engineering, problem-solving, and modern technology integration:
+Selected projects demonstrating practical software engineering, clean architectures, and modern technology integration:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 AI Resume & Interview Assistant</h3>
+      <h3 align="left">AI Resume & Interview Assistant</h3>
       <p align="left">
-        An intelligent, AI-powered web application designed to evaluate candidate resumes, calculate ATS compatibility scores, and generate hyper-tailored technical interview preparation scenarios.
+        An intelligent web application designed to evaluate candidate resumes, calculate ATS compatibility scores, and generate hyper-tailored technical interview preparation scenarios.
       </p>
       <p align="left">
         <b>Key Highlights:</b><br/>
-        • Real-time ATS compatibility scoring & actionable critique<br/>
+        • Real-time ATS compatibility scoring and actionable critique<br/>
         • Automated dynamic question generation using LLM APIs<br/>
         • Clean, responsive dashboard designed for high engagement
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Gen_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/Gen_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Gen AI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🛍️ Full-Stack Modern E-Commerce Platform</h3>
+      <h3 align="left">Full-Stack E-Commerce Platform</h3>
       <p align="left">
         A production-focused e-commerce application emphasizing fast rendering speeds, intuitive catalog search and filtering, resilient cart state synchronization, and checkout flows.
       </p>
@@ -131,15 +131,15 @@ Here are a few selected projects that demonstrate my approach to software engine
         • Relational data modeling and optimized query performance
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="left">☁️ Cloud-Native Web Architectures & REST APIs</h3>
+      <h3 align="left">Cloud-Native Web Architectures & REST APIs</h3>
       <p align="left">
         Modular, cloud-ready backend microservices and APIs deployed with AWS services, engineered for high availability, low latency, and zero-downtime scalability.
       </p>
@@ -147,10 +147,10 @@ Here are a few selected projects that demonstrate my approach to software engine
         <b>Key Highlights:</b> Structured RESTful endpoints, secure token-based authentication, AWS S3 asset handling, and ACID-compliant transaction design.
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
       </p>
     </td>
   </tr>
@@ -158,7 +158,7 @@ Here are a few selected projects that demonstrate my approach to software engine
 
 ---
 
-### 📊 GitHub Activity & Insights
+## GitHub Activity & Analytics
 
 <div align="center">
 
@@ -182,9 +182,9 @@ Here are a few selected projects that demonstrate my approach to software engine
 
 ---
 
-### ☕ Let's Connect & Collaborate!
+## Connect & Collaborate
 
-I'm always excited to connect with fellow engineers, founders, mentors, and teams building impactful software. Whether you'd like to discuss a project, talk about Generative AI & modern web engineering, or explore software opportunities—feel free to reach out!
+I am always interested in connecting with fellow engineers, founders, and teams building impactful software. Whether you would like to discuss an engineering project, talk about Generative AI and modern web architectures, or explore new opportunities, feel free to reach out.
 
 <p align="center">
   <a href="mailto:jeevanofficial2004@gmail.com" target="_blank">
@@ -199,12 +199,12 @@ I'm always excited to connect with fellow engineers, founders, mentors, and team
 </p>
 
 <p align="center">
-  <i>"Committed to building scalable, elegant, and user-centered technology that creates lasting impact."</i> 🚀
+  <i>Committed to building scalable, elegant, and user-centered technology that creates lasting impact.</i>
 </p>
 
 <br/>
 
-<!-- BOTTOM WARM WAVING FOOTER -->
+<!-- BOTTOM WIDE STATIC WAVE FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24,15,30&height=80&section=footer" width="100%" alt="Footer Wave" />
 </div>
