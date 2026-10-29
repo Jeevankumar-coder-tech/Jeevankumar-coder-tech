@@ -1,18 +1,18 @@
 <!-- =========================================================================
      JEEVAN KUMAR - PROFESSIONAL GITHUB PROFILE
-     Clean, Elegant, and Executive Developer Presence
+     Theme: Electric Cyan & Deep Indigo (Modern Cyber Aesthetic)
      ========================================================================= -->
 
 <div align="center">
 
-  <!-- TOP HEADER BANNER (Smooth Fade-In Wave) -->
+  <!-- TOP HEADER BANNER (Deep Indigo & Midnight Slate with Cyan Accent) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24,15,30&height=200&section=header&text=Jeevan%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Generative%20AI%20%7C%20Cloud&descSize=16&descColor=fde047&descAlignY=62&animation=fadeIn" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=15,23,42&height=200&section=header&text=Jeevan%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Generative%20AI%20%7C%20Cloud&descSize=16&descColor=38bdf8&descAlignY=62&animation=fadeIn" width="100%" alt="Header Banner" />
   </a>
 
-  <!-- SMOOTH TYPING SVG ANIMATION (Balanced 4s pacing, 1.8s hold) -->
+  <!-- SMOOTH ELECTRIC CYAN TYPING ANIMATION (4s cadence, 1.8s pause) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=F59E0B&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Software+Developer+%26+Full-Stack+Engineer;Generative+AI+%26+Cloud+Solutions+Builder;Engineering+Scalable%2C+Clean+Web+Applications;Turning+Complex+Problems+Into+Reliable+Code" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Software+Developer+%26+Full-Stack+Engineer;Generative+AI+%26+Cloud+Solutions+Builder;Engineering+Scalable%2C+Clean+Web+Applications;Turning+Complex+Problems+Into+Reliable+Code" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -24,10 +24,10 @@
     </a>
     <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-10B981?style=flat-square" alt="Status Badge" />
     <a href="mailto:jeevanofficial2004@gmail.com">
-      <img src="https://img.shields.io/badge/CONTACT-EMAIL%20ME-F59E0B?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/CONTACT-EMAIL%20ME-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
     <a href="https://github.com/Jeevankumar-coder-tech?tab=repositories">
-      <img src="https://img.shields.io/badge/LOCATION-INDIA%20%2F%20REMOTE-6366F1?style=flat-square" alt="Location Badge" />
+      <img src="https://img.shields.io/badge/LOCATION-INDIA%20%2F%20REMOTE-38BDF8?style=flat-square&logoColor=black" alt="Location Badge" />
     </a>
   </p>
 
@@ -162,9 +162,9 @@ Selected projects demonstrating practical software engineering, clean architectu
 
 <div align="center">
 
-  <!-- Streak Stats Card -->
+  <!-- Streak Stats Card (Electric Cyan Ring & Accent) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://streak-stats.demolab.com/?user=Jeevankumar-coder-tech&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117" alt="GitHub Streak" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=Jeevankumar-coder-tech&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" alt="GitHub Streak" width="49%" />
   </a>
   <!-- Top Languages Card -->
   <a href="https://github.com/Jeevankumar-coder-tech">
@@ -173,9 +173,9 @@ Selected projects demonstrating practical software engineering, clean architectu
 
   <br/><br/>
 
-  <!-- Overall GitHub Stats Card -->
+  <!-- Overall GitHub Stats Card (Cyan Title, Slate Text, Indigo Icons) -->
   <a href="https://github.com/Jeevankumar-coder-tech">
-    <img src="https://github-stats-extended.vercel.app/api?username=Jeevankumar-coder-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&count_private=true" alt="Jeevan's GitHub Metrics" width="85%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Jeevankumar-coder-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=6366F1&count_private=true" alt="Jeevan's GitHub Metrics" width="85%" />
   </a>
 
 </div>
@@ -188,13 +188,13 @@ I am always interested in connecting with fellow engineers, founders, and teams 
 
 <p align="center">
   <a href="mailto:jeevanofficial2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jeevanofficial2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-jeevanofficial2004%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Jeevankumar-coder-tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Jeevankumar--coder--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -204,7 +204,7 @@ I am always interested in connecting with fellow engineers, founders, and teams 
 
 <br/>
 
-<!-- BOTTOM WIDE STATIC WAVE FOOTER -->
+<!-- BOTTOM STATIC WAVE FOOTER (Cohesive Midnight Slate) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24,15,30&height=80&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=15,23,42&height=80&section=footer" width="100%" alt="Footer Wave" />
 </div>
